@@ -1,5 +1,6 @@
 # control-microbiologico-python
 # Sistema Automatizado de Auditoría Microbiológica y Control de Proveedores 🔬📊
+[📄 Descargar mi Hoja de Vida (PDF)](CV_Juan_David_Ospino.pdf)
 
 Este proyecto implementa una arquitectura de datos relacional mediante **SQL** y **Python (Pandas/NumPy)** para centralizar y automatizar el control de inocuidad en el laboratorio de alimentos.
 
